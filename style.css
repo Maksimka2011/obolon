@@ -1,0 +1,98 @@
+h1{
+    text-align: center;
+    font-family: Courier New;
+}
+img{
+    border-radius: 10px;
+    width: 350px ;
+    height: 200px;
+    text-align: center;
+
+}
+body{
+    background-color:rgb(50, 199, 50);
+}
+p{
+    font-size: 20px;
+font-family:  Gill Sans, 
+margin: 10px 0px;
+background-color: ;
+}
+.navi{
+    text-align: center;
+    margin: 10px 0px;
+        font-family: Tahoma ;
+         font-size:18px 
+
+}  
+.navigation{
+    text-decoration: none;
+    margin: 10px 0px;
+    
+    color:black;
+    font-family: Tahoma ;
+ font-size:18px ;
+ border-radius: 4px;
+ background-color: yellow;;
+}
+.hhg{
+    height: 200px;
+width: 80px;
+background-color: lightskyblue;
+}
+.rrr{
+    font-family: Courier New ;
+    font-size: 23px;
+    color: peru;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+
+}
+.tyt{
+    color:indigo;
+}
+.uuu{
+    font-size: 29px;
+}
+main{
+    background-color: rgb(199, 50, 50);
+}
+.kkk{
+    background-color: royalblue;
+     border-radius: 8px;
+}
+footer{
+    background-color: mediumspringgreen;
+}
+.navigatio{text-decoration: none;
+    margin: 10px 0px;
+    
+    color:black;
+    font-family: Tahoma ;
+ font-size:18px ;
+ border-radius: 4px;
+ background-color: royalblue;
+
+}
+.navigatin{text-decoration: none;
+    margin: 10px 0px;
+    
+    color:black;
+    font-family: Tahoma ;
+ font-size:18px ;
+ border-radius: 4px;
+ background-color: rgb(199, 50, 50);
+
+}
+.navigaion{
+text-decoration: none;
+    margin: 10px 0px;
+    
+    color:black;
+    font-family: Tahoma ;
+ font-size:18px ;
+ border-radius: 4px;
+ background-color:mediumspringgreen;
+}
