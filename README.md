@@ -1,4 +1,16 @@
-<body>
+<html>
+ <body>
+<head>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<header>
+<h1><img src="https://www.beer.ua/wp-content/uploads/2016/12/obol.jpg"/><br/>Оболонь</h1>
+<nav class="navi">
+<a class="navigatio" href="#prodykt">продукція</a>
+<a class="navigatin" href="#oo">наші магазинии</a>
+<a class="navigaion" href="#rrr">Контакти</a>
+</nav>
+</header>
 <head>
 <link rel="stylesheet" href="style.css"/>
 </head>
@@ -38,7 +50,7 @@
  <p style="font-size:19px"> <a href="https://www.facebook.com/kiev.klab/posts/%D0%BF%D0%B8%D0%B2%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4-%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D0%BD%D1%8C%D0%B5%D0%B3%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B1%D0%B5%D1%80%D0%B5%D1%82-%D1%81%D0%B2%D0%BE%D0%B5-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%81-1974-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%B2-%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC-%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%BC/2059054714123503/">фейсбук </a> Слава Україні </p>
  </footer>
 </body>
-</htmi>
+</html>
 
 
 
