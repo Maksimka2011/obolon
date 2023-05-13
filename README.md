@@ -1,6 +1,5 @@
 <html>
 <head>
- <title>obolon</title>
 <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
