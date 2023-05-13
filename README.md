@@ -4,7 +4,6 @@
 </head>
 <body>
 <h1><img src="https://www.beer.ua/wp-content/uploads/2016/12/obol.jpg"/><br/>Оболонь</h1>
-<h1><img src="https://www.beer.ua/wp-content/uploads/2016/12/obol.jpg"/><br/>Оболонь</h1>
 <nav class="navi">
 <a class="navigatio" href="#prodykt">продукція</a>
 <a class="navigatin" href="#oo">наші магазинии</a>
