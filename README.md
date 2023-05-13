@@ -1,6 +1,6 @@
 <body>
 <head>
-<link rel="stylesheet"href="style.css"/>
+<link rel="stylesheet" href="style.css"/>
 </head>
 <h1><img src="https://www.beer.ua/wp-content/uploads/2016/12/obol.jpg"/><br/>Оболонь</h1>
 <nav class="navi">
